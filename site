@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coruscant</title>
+    
+   
+</head>
+<body>
+    <h1 align="center"> Dados sobre o planeta Coruscant</h1>
+    <h3 align="center"> O coração da galáxia de Star Wars</h3>
+    “Não. Não tente. Faça ou não faça, mas não tente.” <br> Mestre Yoda
+    <p> <font size="2"> <b> O planeta-cidade Coruscant foi o coração pulsante da galáxia, abrigando uma diversidade de cidadãos e culturas. Tinha altíssimas torres de edifícios, fluxos de tráfego aéreo cheios de speeders e níveis internos que se  
+        estendiam muito abaixo da superfície do planeta. Coruscant foi a sede do governo da República Galáctica e,  
+        posteriormente, do Império, e foi palco de inúmeros eventos históricos durante as Guerras Clônicas.
+        O planeta também abrigou o Templo Jedi e os Arquivos, onde o aprendizado e o treinamento Jedi
+        ocorreram por mais de mil gerações — tradições que terminaram quando o planeta testemunhou a Ordem 66.</b></font></p>
+    <img src="https://preview.redd.it/ow0lkfvm8rv41.jpg?width=1080&crop=smart&auto=webp&s=7eb79ae1e73fd303cc1f69c2ab0aaf73a51ac30f" width="500px" height="250px" border="2px">
+    <p align="justify" > Três acontecimentos marcaram a história desse planeta na saga Star Wars: </p>
+    <ul type="square">
+        <li> A batalha de Coruscant</li>
+        <li> A revolta de Coruscant</li>
+        <li> A execução da Ordem 66</li>
+    </ul>
+    <ul type="none">
+        <li> A batalha de Coruscant</li>
+        <li> A revolta de Coruscant</li>
+        <li> A execução da Ordem 66</li>
+    </ul>
+    
+    
+    <ol>
+        <li type="I"> A batalha de Coruscant</li>
+        <li type="I"> A revolta de Coruscant</li>
+        <li type="I"> A execução da Ordem 66</li>
+    </ol>
+    
+    <h1 align="center"> A batalha de Coruscant </h1>
+    <p align="center"> <i>Durante o últimos momentos das Guerras Clônicas e da República Galáctica, o planeta Coruscant foi invadido pelo exército separatista através de um movimento ardiloso comandado pelo General Grievous, evento que culminou no sequestro do Supremo Chanceler Palpatine. Ao retornar para sua nave, a Mão Invisível, Grievous manteve Palpatine preso na torre de observação. Os Jedi Obi-Wan Kenobi e Anakin Skywalker foram designados para resgatá-lo enquanto uma intensa batalha ocorria na órbita da capital da República.</i></p>
+    <img id="gif" src="https://i.makeagif.com/media/2-16-2024/ycyjk3.gif"width="300px" height="200px">
+
+    <h1 align="center"> A revolta de Coruscant </h1>
+    <p align="right"><font color="red"> <u> Revolta de Coruscant foi uma revolta iniciada após a Batalha de Endor e a morte de Sheev Palpatine, aonde a população oprimida iniciou um levante contra o remanescente imperial.  grupo popular derrubou uma estátua do Imperador, entre eles estavam Jak e seu pai Rorak, logo após a derrubada da estátua, um grupo de quatro soldados da Policia Imperial chegou em Deslizadores e atacando os manifestantes, a população começou a revidar e, a principio, três soldados foram atingidos pela população.</u></font></p>
+    <img src="stormtrooper-de-star-wars-71823175.webp" width="300px" height="200px">
+    
+    
+    <h1 align="center"> A ordem <b>66</b></h1>
+    <p align="justify" > A Ordem 66 foi um evento no final das Guerras Clônicas no qual soldados clone do Grande Exército da República se voltaram contra os Generais Jedi e os exterminaram, ocasionando a destruição da Ordem Jedi. O evento foi acionado pelo Protocolo Clone 66, uma ordem implantada nos clones pelos Lordes Sith e cientistas Kaminoanos que criaram o exército clone. O protocolo fazia com que os soldados clone violentamente atacassem os Jedi e os enxergassem como ameaças, e era controlado por um bio-chip implantado nos cérebros dos clones durante sua criação; o chip controlava o comportamento dos soldados e, assim, garantia sua obediência. A conspiração, liderada secretamente por Darth Sidious e Conde Dookan, foi quase exposta quando o chip do soldado clone Tup deu defeito, mas todos que souberam da conspiração foram mortos.</p>
+    <img id="gif" src="https://j.gifs.com/Q0N2K0.gif" width="300px" height="200px">
+    
+    
+</body>
+</html>
